@@ -29,3 +29,5 @@
     <img alt="" src="https://img.shields.io/github/watchers/RimuruDev/Anime-Clicker-Genshin-Chan-Unity2D?style=flat">
   </a>
 </p>
+
+![9](https://github.com/Rimuru-Dev/Anime-Clicker-Genshin-Chan-Unity2D/assets/85500556/5bc9a1b7-71cf-464e-9dea-73115a4e905b)
