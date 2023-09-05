@@ -33,4 +33,5 @@
   </a>
 </p>
 
-![9](https://github.com/Rimuru-Dev/Anime-Clicker-Genshin-Chan-Unity2D/assets/85500556/5bc9a1b7-71cf-464e-9dea-73115a4e905b)
+![9](https://github.com/Rimuru-Dev/Anime-Clicker-Genshin-Chan-Unity2D/assets/85500556/8fb6a0ad-db0c-41e4-9e72-04b17b5095bd)
+
