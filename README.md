@@ -2,6 +2,9 @@
 
 [Telegram](https://t.me/DevLogUnity)
 
+# Warning
+- Yandex Plugin is Outdated!
+
 
  <p align="center">
   <a>
